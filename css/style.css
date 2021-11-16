@@ -90,6 +90,7 @@ main .container .wrapper button {
     letter-spacing: -0.035em;
     text-transform: uppercase;
     transition: .3s ease all;
+    outline: none;
 }
 
 button:hover{
