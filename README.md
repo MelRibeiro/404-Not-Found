@@ -1,9 +1,7 @@
 # 404 Not Found
 
-## Desktop 💻
-
-
-## Mobile 📱
+## Overview
+<img src="./readme-photo/desktop.gif">
 
 
 
